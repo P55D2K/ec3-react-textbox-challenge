@@ -11,7 +11,6 @@ const App = () => {
           Your text but reversed: <span id='reversedtext'>{reversedText}</span>
         </span>
         <br />
-        {/* span element to say enter ur text here */}
         <div className='flex'>
           <span className='text-2xl text-white text-center w-full mt-1 float-left mr-[-40px]'>Enter your text here</span>
           <input
